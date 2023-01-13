@@ -1,0 +1,4 @@
+secureload 0
+netload "C:\work\2023-01-06_acad_file_dissection\a\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll"
+open "C:\work\2023-01-06_acad_file_dissection\EV-2-M-10-115-FGV.dwg"
+adskgreeting
